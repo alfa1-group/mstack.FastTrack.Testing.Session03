@@ -7,7 +7,7 @@ je nog niet bekend mee bent.
 # Opdrachten
 In deze solution vindt je een bestaande applicatie die mogelijk werkt, want het is al verkocht
 en niemand heeft er over geklaagd. Maar dat is niet zeker want er zijn geen automatische testen.
-In *Acceptatie criteria.md* vindt je een volledige lijst met de acceptatie criteria waar de
+In *Business Requirements.md* vindt je een volledige lijst met de business requirements waar de
 applicatie aan moet voldoen. Deze lijst is opgesteld aan de hand van gesprekken met de business
 en de klanten.
 
@@ -32,7 +32,7 @@ De volgende opties voor het maken van mocks zijn er:
 Het is mogelijk dat de code in de huidige staat niet goed te testen is. Het wordt aan jullie
 gevraagd om de wijzigingen aan te brengen zodat de code wel te testen is.
 
-Het is niet nodig om tijdens de trainingsessie al alle acceptatie criteria omgezet te hebben
+Het is niet nodig om tijdens de trainingsessie al alle business requirement omgezet te hebben
 in unittesten. Het afmaken is ook huiswerk.
 
 

@@ -17,6 +17,13 @@ een test framework uit en een tool om mocks te maken. Je bent waarschijnlijk al 
 één framework te werken. Ten behoeve van kennis uitbreiding en ervaring wordt er van je gevraagd
 om een framework te kiezen waar je nog geen ervaring mee hebt.
 
+Het is mogelijk dat de code in de huidige staat niet goed te testen is. Het wordt aan jullie
+gevraagd om de wijzigingen aan te brengen zodat de code wel te testen is.
+
+Het is niet nodig om tijdens de trainingsessie al alle business requirement omgezet te hebben
+in unittesten. Het afmaken is ook huiswerk.
+
+### C# .Net
 De volgende frameworks zijn er en hier kan je ook meer informatie vinden:
 * __MSTest__: https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-mstest-intro
 * __NUnit__: https://docs.nunit.org/index.html
@@ -29,16 +36,15 @@ De volgende opties voor het maken van mocks zijn er:
 * __NSubstitute__: https://nsubstitute.github.io/
 * Maak je eigen fakes/mocks/stubs
 
-Het is mogelijk dat de code in de huidige staat niet goed te testen is. Het wordt aan jullie
-gevraagd om de wijzigingen aan te brengen zodat de code wel te testen is.
-
-Het is niet nodig om tijdens de trainingsessie al alle business requirement omgezet te hebben
-in unittesten. Het afmaken is ook huiswerk.
-
+### Java
 
 ## Opdracht 2
 In deze oefening is het de bedoeling om je unittesten te verrijken met de tools die we net
-besproken hebben. Focus hierop de volgende tools:
+besproken hebben. Als je nog tijd over hebt dan kan je teruggaan naar de vorige opdracht om
+nog extra unittesten te maken die je wel of niet direct verrijkt met de besproken tools.
+
+### C# .Net
+Focus hierop de volgende tools:
 
 * __Autofixture__: https://autofixture.github.io/
 * __FluentAssertions__: https://fluentassertions.com/introduction
@@ -46,6 +52,4 @@ besproken hebben. Focus hierop de volgende tools:
 * __Factory Pattern__
 * __Builder Pattern__
 
-Als je nog tijd over hebt dan kan je teruggaan naar de vorige opdracht om nog extra unittesten
-te maken die je wel of niet direct verrijkt met de besproken tools.
-
+### Java
